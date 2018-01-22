@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+@import './TopNavBar.css';
+@import './ShotChart.css';
+@import './Profile.css';
+@import './Main.css';
+@import './DataViewContainer.css';
+@import './SearchBar.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+

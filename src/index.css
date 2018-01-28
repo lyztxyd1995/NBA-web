@@ -1,10 +1,10 @@
 @import '~antd/dist/antd.css';
-@import './TopNavBar.css';
-@import './ShotChart.css';
-@import './Profile.css';
-@import './Main.css';
-@import './DataViewContainer.css';
-@import './SearchBar.css';
+@import './styles/TopNavBar.css';
+@import './styles/ShotChart.css';
+@import './styles/Profile.css';
+@import './styles/Main.css';
+@import './styles/DataViewContainer.css';
+@import './styles/SearchBar.css';
 
 body {
   margin: 0;
